@@ -1,0 +1,18 @@
+thisdict = {
+    "dinucleotides": ["AT",
+    "TA", "CG", "GC", "AA", "TT",
+    "CC", "GG", "AC", "AG", "TC", "TG", "CA", "CT", "GA", "GT"],
+    
+    "trinucleotides": ["AAA","AAT","AAC","AAG","ATG","ATC","ATA",
+    "ATT","ACA","ACT","ACC","ACG","AGA","AGT","AGC","AGG","TTT",
+    "TTC","TTA","TTG","TCT","TCC", "TCA","TCG","TAT","TAC","TGT", 
+    "TGC","TGG","CTT","CTC","CTA","CTG","CCT", "CCC", "CCA","CCG",
+    "CAT","CAC","CAA", "CAG", "CGT","CGC","CGA","CGG","GTT","GTC",
+    "GTA","GTG", "GCT","GCC","GCA","GCG","GAT","GAC","GAA","GAG",
+    "GGT","GGC","GGA","GGG"],
+    
+    "stop": ["TAG","TAA","TGA"]
+}
+
+print (thisdict["stop"])
+
