@@ -2,7 +2,7 @@
 
 This is a project for a graduate course (Bioinformatics)
 
->The fasta file contains the sequences considered for running the code on.
+>The fasta files contain the sequences considered for running the code on.
 
 >The code for this project was written in jupyter notebook (.ipynb) and exported as a python file (.py)
 
